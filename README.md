@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&width=435&lines=Puransh+Tiwari;AI+%26+ML+Explorer;CS+%40+JIIT+Noida" />
+</div>
+<div align="center">
 
 <!-- ═══════════ ANIMATED HEADER WAVE ═══════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Puransh%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%2FML%20Explorer%20%7C%20Builder&descAlignY=60&descAlign=50&descSize=18" />
